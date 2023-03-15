@@ -1,0 +1,15 @@
+C:\Users\wille\source\repos\UtilitiesDemo\bin\Debug\net6.0\UtilitiesDemo.exe
+C:\Users\wille\source\repos\UtilitiesDemo\bin\Debug\net6.0\UtilitiesDemo.deps.json
+C:\Users\wille\source\repos\UtilitiesDemo\bin\Debug\net6.0\UtilitiesDemo.runtimeconfig.json
+C:\Users\wille\source\repos\UtilitiesDemo\bin\Debug\net6.0\UtilitiesDemo.dll
+C:\Users\wille\source\repos\UtilitiesDemo\bin\Debug\net6.0\UtilitiesDemo.pdb
+C:\Users\wille\source\repos\UtilitiesDemo\obj\Debug\net6.0\UtilitiesDemo.csproj.AssemblyReference.cache
+C:\Users\wille\source\repos\UtilitiesDemo\obj\Debug\net6.0\UtilitiesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\source\repos\UtilitiesDemo\obj\Debug\net6.0\UtilitiesDemo.AssemblyInfoInputs.cache
+C:\Users\wille\source\repos\UtilitiesDemo\obj\Debug\net6.0\UtilitiesDemo.AssemblyInfo.cs
+C:\Users\wille\source\repos\UtilitiesDemo\obj\Debug\net6.0\UtilitiesDemo.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\UtilitiesDemo\obj\Debug\net6.0\UtilitiesDemo.dll
+C:\Users\wille\source\repos\UtilitiesDemo\obj\Debug\net6.0\refint\UtilitiesDemo.dll
+C:\Users\wille\source\repos\UtilitiesDemo\obj\Debug\net6.0\UtilitiesDemo.pdb
+C:\Users\wille\source\repos\UtilitiesDemo\obj\Debug\net6.0\UtilitiesDemo.genruntimeconfig.cache
+C:\Users\wille\source\repos\UtilitiesDemo\obj\Debug\net6.0\ref\UtilitiesDemo.dll
