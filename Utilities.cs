@@ -72,6 +72,11 @@ namespace UtilitiesDemo
             }
             return dict;
         }
+
+        internal static object NonPrimeDivisorsDictionary(int num)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
 
